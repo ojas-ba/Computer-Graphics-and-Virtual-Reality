@@ -1,4 +1,4 @@
-# Computer Graphics and Virtual Reality — Lab Programs
+# Computer Graphics and Virtual Reality Lab
 
 ## Ojas B A - 1RVU23CSE321
 A consolidated collection of **Computer Graphics and Virtual Reality (CGVR)** laboratory programs with runnable source code, Jupyter notebooks, output screenshots, OpenGL implementations, shader examples, and a Unity interactive 3D scene.
