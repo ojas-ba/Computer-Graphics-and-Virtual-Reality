@@ -134,8 +134,4 @@ Unity version used: **6000.3.0f1**.
 - Lab 6 contains the corrected OpenGL depth-buffer setup using `pygame.GL_DEPTH_SIZE`.
 - Labs 7, 8 and 10 contain complete runnable code even though some of the original standalone notebooks were empty.
 
-## Author
-
-**Rishikesh Munnaluri**
-
 Computer Graphics and Virtual Reality Laboratory
